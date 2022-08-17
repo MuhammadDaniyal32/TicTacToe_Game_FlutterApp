@@ -1,16 +1,10 @@
-# tic_tac_toe_game
+# Tic Tac Toe Game
 
-Flutter Assignment 3
+### Description:
 
-## Getting Started
+_Tic Tac Toe Game is two player game in Flutter, Game results saved in list.Game UI build with provided [Figma Url](https://www.figma.com/file/JOhVU1zqmKORjOUscrf4JN/kati_zero)_ 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://user-images.githubusercontent.com/55941433/185174012-a160f09c-f9fa-43c6-ae4b-4a295a2a679e.mp4
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
